@@ -1,0 +1,5 @@
+openai
+sounddevice
+scipy
+python-docx
+os

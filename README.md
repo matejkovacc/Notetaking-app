@@ -3,6 +3,8 @@
 This application records a short audio clip, transcribes it using OpenAI's Whisper model, generates keywords and a summary using OpenAI's GPT-3.5 Turbo, and inserts the transcription and summary into a Microsoft Word document.
 
 # Installation 
+Ensure you have Python and Pip installed on your machine. Then run:
+
 ```pip install -r requirements```
 
 # Setup
